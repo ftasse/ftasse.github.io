@@ -2,9 +2,10 @@
 <!---![Flora picture](https://avatars2.githubusercontent.com/u/3426324?v=3&s=460)-->
 I lead the tech behind Selerio.io, where we are making interactions between the real world and the virtual world easier than never before. Before that, I was a PhD student in the Rainbow group (University of Cambridge), under the supervision of Neil Dodgson and Peter Robinson. <!--More about this at my official website www.cl.cam.ac.uk/~fp289 .-->
 Check my [Google Scholar](https://scholar.google.co.uk/citations?user=sDRsbs8AAAAJ&hl=en) page for some of the papers that came out from that research.
-Some highlights:
-- [Shape2Vec: semantic-based descriptors for 3D shapes, sketches and images](https://www.cl.cam.ac.uk/research/rainbow/projects/shape2vec/)
-- [3D Point Set Saliency](https://www.cl.cam.ac.uk/research/rainbow/projects/pointsetsaliency/)
+Selected highlights:
+- [Shape2Vec: Semantic-based Descriptors For 3D Shapes, Sketches and Images](https://www.cl.cam.ac.uk/research/rainbow/projects/shape2vec/)
+- [Cluster-based Point Set Saliency](https://www.cl.cam.ac.uk/research/rainbow/projects/pointsetsaliency/)
+- [Shading Curves: Vector-Based Drawing With Explicit Gradient Control](https://www.cl.cam.ac.uk/research/rainbow/projects/shadingcurves/)
 
 ### Where I come from
 Born and raised in Douala, Cameroon. I then spent 5 years in South Africa, before coming to the UK late 2012. 

@@ -1,8 +1,10 @@
 ### Welcome fellow human and others!
 <!---![Flora picture](https://avatars2.githubusercontent.com/u/3426324?v=3&s=460)-->
 
-Github: https://github.com/ftasse
-LinkedIn: https://uk.linkedin.com/in/flora-tasse
+Github: [https://github.com/ftasse](https://github.com/ftasse)
+LinkedIn: [https://uk.linkedin.com/in/flora-tasse](https://uk.linkedin.com/in/flora-tasse)
+
+### What I do
 
 I head the AI and Computer Vision research at [Streem](https://streem.pro) where we are making cameras smart enough to solve users problems right where they are. 
 

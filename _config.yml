@@ -6,6 +6,7 @@ theme: jekyll-theme-slate
 
 github:
   is_project_page: false
+  hide_view_on_github: true
   
 gems:
   - jekyll-mentions

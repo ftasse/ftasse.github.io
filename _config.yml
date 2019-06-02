@@ -2,7 +2,7 @@ title: About Flora Tasse
 description: Towards making a difference ...
 google_analytics: UA-62050220-1
 show_downloads: true
-theme: jekyll-theme-cayman
+theme: jekyll-theme-slate
 
 gems:
   - jekyll-mentions
